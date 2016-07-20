@@ -28,6 +28,7 @@
         android:layout_toRightOf = "@id/ocean_image_view"/>
 		
     <TextView
+    	android:id = "@+id/distance_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="10 miles away"
