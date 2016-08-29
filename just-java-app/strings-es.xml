@@ -1,0 +1,21 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Solo Java 3</string>
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="input_name">Nombre</string>
+    <!--Text for the list of toppings [CHAR LIMIT=20] -->
+    <string name="toppings">Condimentos</string>
+    <string name="whipped_cream_text">Con nata batida</string>
+    <string name="quantity">Cantidad</string>
+    <string name="price">PRECIO</string>
+    <string name="order">PIDE</string>
+    <string name="unit_price_coffee">1 café = </string>
+    <!--Strings on email [CHAR LIMIT=NONE] -->
+    <string name="order_email_name">Un nuevo pedido para <xliff:g id="nameClient" example="Josua">%s</xliff:g></string>
+    <string name="order_summary_name">Nombre: <xliff:g id="nameClient" example="Jose">%s</xliff:g></string>
+    <string name="number_of_coffes">Número de cafés: <xliff:g id="numberOfCoffes" example="2">%d</xliff:g></string>
+    <string name="has_whipped_cream">Tiene nata batida? <xliff:g id="hasWippedCream" example="True">%b</xliff:g></string>
+    <string name="has_chocolate">Tiene chocolate? <xliff:g id="hasChocolate" example="True">%b</xliff:g></string>
+    <string name="order_summary_price">Total: <xliff:g id="price" example="10€">%s</xliff:g></string>
+    <string name="thank_you">gracias y vuelve pronto!</string>
+</resources>

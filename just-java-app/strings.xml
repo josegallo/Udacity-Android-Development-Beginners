@@ -1,0 +1,21 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Just Java 3</string>
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="input_name">Name</string>
+    <!--Header text for the list of toppings [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream_text">Whipped cream </string>
+    <string name="quantity">Quantity</string>
+    <string name="price">PRICE</string>
+    <string name="order">ORDER</string>
+    <string name="unit_price_coffee">1 coffee = </string>
+    <!--Strings on email [CHAR LIMIT=NONE] -->
+    <string name="order_email_name">A new order for <xliff:g id="nameClient" example="Josua">%s</xliff:g> </string>
+    <string name="order_summary_name">Name: <xliff:g id="nameClient" example="Josua">%s</xliff:g></string>
+    <string name="number_of_coffes">Number of coffes: <xliff:g id="numberOfCoffes" example="2">%d</xliff:g></string>
+    <string name="has_whipped_cream">Has whipped cream? <xliff:g id="hasWippedCream" example="True">%b</xliff:g></string>
+    <string name="has_chocolate">Has chocolate? <xliff:g id="hasChocolate" example="True">%b</xliff:g></string>
+    <string name="order_summary_price">Total: <xliff:g id="price" example="10€">%s</xliff:g></string>
+    <string name="thank_you">Thank you! and come back!</string>
+</resources>
